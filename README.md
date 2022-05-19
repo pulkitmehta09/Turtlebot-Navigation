@@ -1,8 +1,4 @@
-# ENPM 661 Final Project
-
-## Team Members
-### Pulkit Mehta (UID: 117551693)
-### Anirudh Krishnan Komaralingam (UID: 117446432)
+# Turtlebot3 Navigation using RRT, RRT*, RRT-Connect and RRT*-Smart
 
 
 ## INSTRUCTIONS TO RUN
@@ -63,5 +59,3 @@ $ python3 move.py
 ### Simulation Video Link
 https://drive.google.com/file/d/1gj9GAfu7OxvVLqzEuiDSR2mgSp7AscXa/view?usp=sharing
 
-### Github Link
-https://github.com/anikk94/enpm661_project5# Turtlebot-Navigation
